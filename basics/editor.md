@@ -6,7 +6,7 @@ icon: pen-to-square
 
 GitBook has a powerful block-based editor that allows you to seamlessly create, update, and enhance your content.
 
-This is a new line&#x20;
+This is a new line 123
 
 <figure><img src="https://gitbookio.github.io/onboarding-template-images/editor-hero.png" alt=""><figcaption></figcaption></figure>
 
